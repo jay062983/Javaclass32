@@ -1,0 +1,7 @@
+What are Exceptions?
+Exceptions are runtime issues that can stop normal flow of out programs and
+can abruptly terminate the program which is very bad and leads to bad user experience
+Exception Handling:
+we stop the program from terminating abrubtly and we try
+to  mitigate the issue we provide a backup code.
+and convert the error messages to simple text.
